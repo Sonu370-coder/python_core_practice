@@ -1,1 +1,1 @@
-# python_core_practice
+# pythoncore_practice
